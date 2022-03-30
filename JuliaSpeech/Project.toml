@@ -1,0 +1,8 @@
+name = "JuliaSpeech"
+uuid = "2f0a3ecf-c569-4c4d-86f8-0a1f5ec7866e"
+authors = ["nicorb "]
+version = "0.1.0"
+
+[deps]
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+WAV = "8149f6b0-98f6-5db9-b78f-408fbbb8ef88"
